@@ -24,6 +24,13 @@ A full-stack web application built with **React** (frontend) and **Express.js** 
 
 ## 🚀 How to Run Locally
 
+### 🔧 Environment Variables
+
+Create a .env file in the Backend directory with the following variables:
+
+PORT=3000
+JWT_SECRET=your_jwt_secret
+
 ### 1. Install dependencies
 
 Frontend:
